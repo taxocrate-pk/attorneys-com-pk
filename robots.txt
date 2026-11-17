@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://attorneys.com.pk/sitemap.xml
